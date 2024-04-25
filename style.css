@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(34, 0, 73);
+}
+
+.welcome{
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 120%;
+}
+
+.bevezeto{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.tortenet{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.image{
+    margin:auto;
+    padding: 10px;
+    background-color: rgb(26, 0, 56);
+    border-radius: 15px;
+}
+
+.kepek{
+    border-radius: 10px;
+    width: 400px;
+}
+
+.gomb{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
